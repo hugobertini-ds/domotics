@@ -1,2 +1,2 @@
 # domotics
-Some of my own domotics stuff
+This repository includes the items that make some of my domotics approaches.
